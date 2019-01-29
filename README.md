@@ -1,2 +1,3 @@
-# public-issues-repo
-Repo for creating issues without any code
+# Public Issues Repo
+
+Here we can create issues that can be referenced in private-code-repo
